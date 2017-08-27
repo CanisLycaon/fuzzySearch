@@ -1,0 +1,17 @@
+{
+  "name": "fuzzySearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/CanisLycaon/fuzzySearch",
+    "type": "git"
+  },
+  "author": "taoalpha <iamzhoutao92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "common-substrings": "^1.0.2",
+    "debug": "^3.0.1",
+    "minimist": "^1.2.0"
+  }
+}
